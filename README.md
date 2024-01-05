@@ -14,7 +14,7 @@ For the purpose of this interview, all you will need installed is a
 3. Docker
 
 ## Connecting to the Kubernetes Cluster
-Your interviewer will provide you with a kubeconfig that you can uses in order to connect to your interview cluster. 
+Your interviewer will provide you with a kubeconfig that you can use in order to connect to your interview cluster. 
 
 ## Pushing images to the image repository
 
