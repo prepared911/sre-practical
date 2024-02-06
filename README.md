@@ -24,9 +24,9 @@ For the purpose of this interview, all you will need installed is a
 Your interviewer will provide you with a kubeconfig that you can use in order to connect to your interview cluster. 
 
 ## Pushing images to the docker repository
-The image registry is located at `sre-practical-harbor.prepared911.dev/sre`
+The image registry is located at `sre-practical-harbor.primary.prepared911.dev/sre`
 
 Credentials to the registry will be provided by your interviewer.
 
-When creating your image, please push it to the repository at `sre-practical-harbor.prepared911.dev/sre/[YOURNAME]`
+When creating your image, please push it to the repository at `sre-practical-harbor.primary.prepared911.dev/sre/[YOURNAME]`
 
